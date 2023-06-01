@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sachinjamidar\\source\\repos\\DemoTestApp\\DemoTestApp.csproj",
+      "projectUniqueName": "C:\\WorkSpace\\TheFoschiniGroup\\GitRepo\\New folder\\DemoTestApp\\DemoTestApp.csproj",
       "projectName": "DemoTestApp",
-      "projectPath": "C:\\Users\\sachinjamidar\\source\\repos\\DemoTestApp\\DemoTestApp.csproj",
+      "projectPath": "C:\\WorkSpace\\TheFoschiniGroup\\GitRepo\\New folder\\DemoTestApp\\DemoTestApp.csproj",
       "packagesPath": "C:\\Users\\sachinjamidar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sachinjamidar\\source\\repos\\DemoTestApp\\obj\\",
+      "outputPath": "C:\\WorkSpace\\TheFoschiniGroup\\GitRepo\\New folder\\DemoTestApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sachinjamidar\\AppData\\Roaming\\NuGet\\NuGet.Config",
